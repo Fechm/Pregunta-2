@@ -14,3 +14,5 @@ Ese comando descargará todos los módulos de node necesarios para ejecutar el p
 npm start
 ```
 Para que eso funcione, recuerden que deben de ejecutar ese comando en el mismo directorio donde se encuentra el ```package.json```
+
+* Cuando se inicie el proyecto, se podra visualizar en consola los resultados del ejercicio.
